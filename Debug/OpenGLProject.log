@@ -1,0 +1,135 @@
+﻿  Pyramid.cpp
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(157,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(173,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(173,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(173,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(175,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(175,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(175,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(177,41): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(177,53): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(177,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(179,39): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(179,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(179,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(194,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(194,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(194,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(196,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(196,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(196,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(198,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(198,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(198,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(200,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(200,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(200,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(206,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(206,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(206,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(208,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(208,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(208,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(210,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(210,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(210,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(212,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(212,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(212,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(218,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(218,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(218,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(220,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(220,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(220,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(222,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(222,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(222,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(224,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(224,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(224,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(230,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(230,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(230,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(232,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(232,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(232,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(234,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(234,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(234,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(236,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(236,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(236,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(242,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(242,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(242,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(244,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(244,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(244,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(246,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(246,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(246,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(248,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(248,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(248,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(256,59): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(330,78): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(335,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(336,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(345,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(346,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(355,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(356,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(374,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(381,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(388,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(395,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(404,79): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(407,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(412,77): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(415,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(420,77): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(425,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(431,78): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(464,78): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(492,78): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(519,78): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(546,78): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(602,53): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(608,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(619,54): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(619,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(628,53): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(628,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(640,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(655,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(655,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(657,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(657,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(659,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(659,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(661,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(661,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(674,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(687,8): warning C4101: 'y': unreferenced local variable
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(735,33): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(736,33): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(740,33): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(741,33): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(742,34): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(743,34): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(754,34): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(764,91): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(765,34): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(770,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(771,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(772,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(773,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(791,36): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(818,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(825,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(903,26): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(909,26): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(913,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Karl\Documents\OpenGLProject\OpenGLProject\Pyramid.cpp(918,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  OpenGLProject.vcxproj -> C:\Users\Karl\Documents\OpenGLProject\Debug\OpenGLProject.exe

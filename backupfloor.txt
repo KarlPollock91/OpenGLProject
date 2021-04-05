@@ -1,0 +1,22 @@
+//----------draw a floor plane-------------------
+void drawFloor()
+{
+	bool flag = false;
+
+	glBegin(GL_QUADS);
+	glNormal3f(0, 1, 0);
+	for(int x = -400; x <= 400; x += 20)
+	{
+		for(int z = -400; z <= 400; z += 20)
+		{
+			if(flag) glColor3f(0.6, 1.0, 0.8);
+			else glColor3f(0.8, 1.0, 0.6);
+			glVertex3f(x, 0, z);
+			glVertex3f(x, 0, z+20);
+			glVertex3f(x+20, 0, z+20);
+			glVertex3f(x+20, 0, z);
+			flag = !flag;
+		}
+	}
+	glEnd();
+}
